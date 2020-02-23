@@ -7,7 +7,7 @@ tags:
   - databricks
 ---
 
-This is an overview of how to create an Jupyter kernel that when selected will automatically create a connection to an already preconfigured cluster within Databricks. Also the reference paths below reference the default paths that Jupyter and IPython use on OSX.
+This is an overview of how to create an Jupyter kernel that when selected will automatically create a connection to an already preconfigured cluster within Databricks. Also the referenced paths below are the default paths that Jupyter and IPython use on OSX, see Jupyter and IPython docs for Windows and Linux paths if needed.
 
 ## Initial Setup
 
