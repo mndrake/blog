@@ -43,6 +43,6 @@ In this case we will initialize the following, mimicking the experience within a
 
 <script src="https://gist.github.com/mndrake/38315a83717fa6608dc17af700e9bd37.js"></script>
 
-# Vadidate
+## Validate
 
 You should now be able to launch `jupyter notebook` and now be able to select the `dbconnect` kernel and start using dbconnect without any additional configuration. This does require that your cluster is already running within databricks first though. In the future I may look into automating the creation and starting of a cluster from the client side, but hopefully this is a start to easing the use of `dbconnect` within Jupyter.
